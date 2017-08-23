@@ -8,9 +8,9 @@ Esse exemplo, visa demonstrar como manipular graficos no desenvolvimento de widg
 
 ### Recursos úteis
 
-* Criação de gráficos com auxilio do [fluig Style Guide](http://style.fluig.com/)(chart)
+* Criação de gráficos com auxilio do [fluig Style Guide](https://style.fluig.com/chart.html)
 * Criação e manipulação de [dataset customizado](http://tdn.totvs.com/display/public/fluig/Desenvolvimento+de+Datasets) 
-* Construindo [gráficos](https://style.fluig.com/chart.html#about) estáticos com valores pré-definidos  p
+* Construindo [gráficos](https://style.fluig.com/chart.html#about) estáticos com valores pré-definidos
 * Construindo gráficos dinâmicos a partir de datasets customizados
 * Utilizando o evento "Change" do javascript na função Binding
 
